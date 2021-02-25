@@ -1,1 +1,1 @@
-tests/sample_data/** binary
+*.java linguist-language=java
